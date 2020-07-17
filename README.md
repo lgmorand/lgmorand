@@ -15,8 +15,8 @@ I'm working as a Engineer in [Microsoft](https://github.com/microsoft)
 
 ## I'm currently working on 🔭
 
-[The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
-[The ARO workshop with Azure DevOps](stoaroworkshop.z6.web.core.windows.net/)
+- [The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
+- [The ARO workshop with Azure DevOps](stoaroworkshop.z6.web.core.windows.net/)
 
 
 ## Know / Using 🧠
