@@ -2,7 +2,7 @@
 
 My name is Louis-Guillaume MORAND, and I'm a geek at Microsoft based in France
 
-I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working.
+I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor
 
 
 - 🙋‍♂️ Pronouns: He/him
