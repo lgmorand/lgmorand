@@ -5,18 +5,18 @@ My name is Louis-Guillaume MORAND, and I'm a geek at Microsoft based in France
 I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor
 
 
-- 🙋‍♂️ Pronouns: He/him
-
 ![LG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgmorand&show_icons=true)
 
 ## Job
 
-I'm working as a Engineer in [Microsoft](https://github.com/microsoft)
+I'm working as a geek in [Microsoft](https://github.com/microsoft)
 
 ## I'm currently working on 🔭
 
 - [The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
 - [The ARO workshop with Azure DevOps](stoaroworkshop.z6.web.core.windows.net/)
+- a new workshop
+- a book (but shhhh!)
 
 
 ## Know / Using 🧠
