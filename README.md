@@ -2,9 +2,12 @@
 
 My name is Louis-Guillaume MORAND, and I'm a geek at Microsoft based in France
 
-I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor. I like to write technical articles or books. Here is the last one (currently in french, soon in english)
+I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor. I like to write technical articles or books. Here is the last one 
 
-<a href="https://www.amazon.fr/GitHub-Actions-pratique-Louis-Guillaume-MORAND/dp/2957832909" target="_blank"><img src="https://raw.githubusercontent.com/lgmorand/lgmorand/master/cover.jpg" height="200" /> </a>
+<a href="https://www.amazon.com/GitHub-Actions-practical-Louis-Guillaume-MORAND/dp/2957832925" target="_blank"><img src="https://raw.githubusercontent.com/lgmorand/lgmorand/master/cover.jpg" height="200" /> </a>
+
+[French Edition](https://www.amazon.fr/GitHub-Actions-pratique-Louis-Guillaume-MORAND/dp/2957832941)
+[English Edition](https://www.amazon.com/GitHub-Actions-practical-Louis-Guillaume-MORAND/dp/2957832925)
 
 
 ![LG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgmorand&show_icons=true)
