@@ -19,7 +19,8 @@ I'm working as a geek in [Microsoft](https://github.com/microsoft)
 ## I'm currently working on 🔭
 
 - [The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
-- [The ARO workshop with Azure DevOps](stoaroworkshop.z6.web.core.windows.net/)
+- [The Azure Container Apps workshop](https://aka.ms/aca-workshop)
+- A certification guide for GitHub
 
 ## Know / Using 🧠
 
