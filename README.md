@@ -14,7 +14,7 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 
 ## Job
 
-I'm working as a geek in [Microsoft](https://github.com/microsoft)
+I'm working as a geek at [Microsoft](https://github.com/microsoft)
 
 ## I'm currently working on 🔭
 
