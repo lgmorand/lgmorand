@@ -1,8 +1,8 @@
 <div id="intro" align="center">
 
-  <img alt="Kind cat GIF" src="./images/hi-there.gif" />
+  <img alt="Kind cat GIF" src="./images/title.png" />
 
-  <h1>Hi, I'm LG - The Technical Potato !</h1>
+
 
   <div id="social-icons">
     <a href="https://lgmorand.github.io/">
@@ -16,18 +16,27 @@
     </a>
   </div>
 </div>
-My name is Louis-Guillaume MORAND, and I'm a geek at Microsoft based in France
+
+##  About me
+
+My name is Louis-Guillaume MORAND, and I'm based in France working (currently) at Microsoft 
 
 I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor. I like to write technical articles or books. Here is the last one 
 
 ## 📘 My books
 
-<a href="https://www.amazon.com/GitHub-Actions-practical-Louis-Guillaume-MORAND/dp/2957832925" target="_blank"><img src="./images/books/github-actions-en.jpg" height="200" /> </a>
-<a href="https://www.amazon.fr/GitHub-Actions-pratique-Louis-Guillaume-MORAND/dp/2957832941" target="_blank"><img src="./images/books/github-actions-fr.jpg" height="200" /> </a>
-<a href="https://www.amazon.fr/D%C3%A9veloppement-Windows-applications-Runtime-JavaScript/dp/2212136439" target="_blank"><img src="./images/books/dev-win8.jpg" height="200" /> </a>
-<a href="https://www.amazon.fr/Windows-8-avanc%C3%A9-Louis-Guillaume-Morand/dp/2212134835" target="_blank"><img src="./images/books/win8.jpg" height="200" /> </a>
-<a href="https://www.amazon.fr/Windows-7-avanc%C3%A9-Louis-Guillaume-Morand/dp/2212129955" target="_blank"><img src="./images/books/win7.jpg" height="200" /> </a>
-
+<div id="intro" align="center">
+<a href="https://www.amazon.com/GitHub-Actions-practical-Louis-Guillaume-MORAND/dp/2957832925" target="_blank"><img src="./images/books/github-actions-en.jpg" height="200" style="-webkit-box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); 
+box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px" /> </a>
+<a href="https://www.amazon.fr/GitHub-Actions-pratique-Louis-Guillaume-MORAND/dp/2957832941" target="_blank"><img src="./images/books/github-actions-fr.jpg" height="200" style="-webkit-box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); 
+box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
+<a href="https://www.amazon.fr/D%C3%A9veloppement-Windows-applications-Runtime-JavaScript/dp/2212136439" target="_blank"><img src="./images/books/dev-win8.jpg" height="200" style="-webkit-box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); 
+box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
+<a href="https://www.amazon.fr/Windows-8-avanc%C3%A9-Louis-Guillaume-Morand/dp/2212134835" target="_blank"><img src="./images/books/win8.jpg" height="200" style="-webkit-box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); 
+box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
+<a href="https://www.amazon.fr/Windows-7-avanc%C3%A9-Louis-Guillaume-Morand/dp/2212129955" target="_blank"><img src="./images/books/win7.jpg" height="200" style="-webkit-box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); 
+box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
+</div>
 
 ## 🔭 Some stuff I built/wrote
 
@@ -53,12 +62,9 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
   <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/github-icon.png" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
-  <img src="./images/tech-icons/octopus-icon.png" title="Octopus Deploy" alt="Octopus Deploy" width="80" height="80"/>
-  <img src="./images/tech-icons/hugo-icon.png" title="Hugo Server" alt="Hugo Server" width="80" height="80"/>
+
 </div>
 
 ## 🙌🏼 My stats 
 
-![LG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgmorand&show_icons=true)
-
-
+![contrib](./profile-3d-contrib/profile-green.svg)
