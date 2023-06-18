@@ -29,9 +29,6 @@ I'm a versatile Software Engineer with over 20 years of comprehensive experience
 <a href="https://www.amazon.fr/Windows-7-avanc%C3%A9-Louis-Guillaume-Morand/dp/2212129955" target="_blank"><img src="./images/books/win7.jpg" height="200" /> </a>
 
 
-
-
-
 ## 🔭 Some stuff I built/wrote
 
 - [The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
