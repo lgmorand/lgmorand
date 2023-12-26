@@ -43,7 +43,7 @@ box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
 - [The AKS Checklist](http://www.the-aks-checklist.com), the best way to ensure your cluster is production-ready!
 - [The Azure Container Apps workshop](https://aka.ms/aca-workshop)
 - [The AKS workshop](https://aka.ms/aks-workshop)
-- [The GitHub Copilot workshop](https://aka.ms/aca-workshop)
+- [The GitHub Copilot workshop](https://moaw.dev/workshop/github-copilot/)
 - [Azure DevOps - pipelines decorators whitepaper](https://github.com/lgmorand/azure-devops-pipeline-decorators)
 - [The DevSecOps table](https://aka.ms/devsecops-table)
 - A certification guide for GitHub
