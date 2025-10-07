@@ -67,4 +67,5 @@ box-shadow: 7px 5px 8px -4px rgba(0,0,0,0.61); margin:5px"/> </a>
 
 ## 🙌🏼 My stats 
 
-![contrib](./profile-3d-contrib/profile-green.svg)
+![contrib](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![contrib](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
