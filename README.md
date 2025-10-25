@@ -21,7 +21,7 @@
 
 My name is Louis-Guillaume MORAND, and I'm based in France working (currently) at Microsoft 
 
-I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor. I like to write technical articles or books. Here is the last one 
+I'm a versatile Software Engineer with over 20 years of comprehensive experience, focused on working with challenging projects and learning while working. Playing with domotic, magic mirror, developing and using DevOps on daily basis, I spend most of my time in front of a code editor. I like to write technical articles or books. 
 
 ## 📘 My books
 
